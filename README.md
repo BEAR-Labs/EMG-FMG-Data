@@ -2,6 +2,7 @@
 The data found in this repository is electromyography (EMG) and force myography (FMG) data collected from 27 able-bodied participants at different limb positions and loading conditions while they performed 4 different hand gestures. For more information about the data collection process, experimental procedures, and data analysis pipelines, please feel free to use the reference below which will lead you to the study.  
 
 Citation: Young PR, Hong K, Winslow EJ, Sagastume GK, Battraw MA, Whittle RS, Schofield JS. (2025) The effects of limb position and grasped load on hand gesture classification using electromyography, force myography, and their combination. PLoS ONE 20(4): e0321319. https://doi.org/10.1371/journal.pone.0321319
+
 The organization of the data is as follows: Inside of the folder labeled “Data”, there are 27 folders labeled “Par” followed by a number, denoting each participant’s dataset. Inside each of these folders are 4 sub-folders with the following names: Key, Pinch, Power, and Tripod. Each of these folders represent data collected when the participant was performing each of these hand gestures. 
 
 Inside each of the hand gesture folders, there are 5 sub-folders with the following names: 0, 250, 500, 750, and 1000. These folders represent the different loading conditions the participant was given, ranging from 0 grams to 1000 grams. 
