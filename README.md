@@ -7,7 +7,7 @@ The organization of the data is as follows: Inside of the folder labeled “Data
 
 Inside each of the hand gesture folders, there are 5 sub-folders with the following names: 0, 250, 500, 750, and 1000. These folders represent the different loading conditions the participant was given, ranging from 0 grams to 1000 grams. 
 
-In each of the loading condition folders, there are 8 .csv files. This is the raw EMG and FMG data collected at the different limb positions during the experiment, reported in volts. The 8 .csv files represent each of the 8 limb positions. Each of the files has the naming scheme as follows: <Hand Gesture> <Loading Condition> <Limb Position>. For example, the file for the hand gesture of Key with the loading condition of 500 at a limb position of 7 is named “Key 500 7”. A figure is provided to illustrate the folder organization while further information on what these hand gestures, loading conditions, and limb positions look like can be found in the paper.
+In each of the loading condition folders, there are 8 .csv files. This is the raw EMG and FMG data collected at the different limb positions during the experiment, reported in volts. The 8 .csv files represent each of the 8 limb positions. Each of the files has the naming scheme as follows: "Hand Gesture" "Loading Condition" "Limb Position". For example, the file for the hand gesture of Key with the loading condition of 500 at a limb position of 7 is named “Key 500 7”. A figure is provided to illustrate the folder organization while further information on what these hand gestures, loading conditions, and limb positions look like can be found in the paper.
 
 ![image](https://github.com/user-attachments/assets/ab373f9b-390a-4424-9392-daaf173cc3dc)
 
