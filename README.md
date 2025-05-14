@@ -1,5 +1,9 @@
 # EMG-FMG-Data
-The data found in this repository is electromyography (EMG) and force myography (FMG) data collected from 27 able-bodied participants at different limb positions and loading conditions while they performed 4 different hand gestures. For more information about the data collection process, experimental procedures, and data analysis pipelines, please feel free to use the reference below which will lead you to the study.  
+The data found using this repository is electromyography (EMG) and force myography (FMG) data collected from 27 able-bodied participants at different limb positions and loading conditions while they performed 4 different hand gestures. The following Zenodo link will lead you to where the data can be downloaded.
+
+**Zenodo Link:** https://zenodo.org/records/15420178
+
+For more information about the data collection process, experimental procedures, and data analysis pipelines, please feel free to use the reference below which will lead you to the study.  
 
 **Citation:** Young PR, Hong K, Winslow EJ, Sagastume GK, Battraw MA, Whittle RS, Schofield JS. (2025) The effects of limb position and grasped load on hand gesture classification using electromyography, force myography, and their combination. PLoS ONE 20(4): e0321319. https://doi.org/10.1371/journal.pone.0321319
 
